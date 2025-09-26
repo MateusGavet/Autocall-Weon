@@ -5,10 +5,6 @@
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 
 Um robô de automação de desktop construído com Python, Selenium e Tkinter para automatizar o processo de busca de contatos e realização de chamadas em um sistema web, com uma interface gráfica amigável e funcionalidades de priorização.
-
-![Demonstração da Interface do Robô](https://i.imgur.com/link_para_uma_imagem_ou_gif_da_sua_gui.png)
-*(Sugestão: Grave um GIF curto da aplicação funcionando e substitua o link acima)*
-
 ---
 
 ## 📖 Sobre o Projeto
@@ -34,8 +30,6 @@ Um robô de automação de desktop construído com Python, Selenium e Tkinter pa
 * [cite_start]**Empacotamento para Distribuição:** O script pode ser compilado em um único arquivo `.exe` com o PyInstaller, incluindo todas as dependências como o `chromedriver`.
 
 ## 🚀 Começando
-
-Siga estas instruções para configurar e executar o projeto no seu ambiente de desenvolvimento.
 
 ### Pré-requisitos
 
